@@ -27,6 +27,7 @@ input.input-box {
 	border-radius: 10px;
 	border: none;
 	color: #444444;
+	font-family: 'indie flower', cursive;
 	height: 1.75em;
 	margin: 0.5em;
 	text-align: center;
@@ -46,6 +47,7 @@ button.input-button {
 	border-radius: 10px;
 	border: none;
 	color: #eeeeee;
+	font-family: 'indie flower', cursive;
 	height: 2em;
 	margin: 0.5em;
 	text-align: center;
